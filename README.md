@@ -7,5 +7,3 @@ I know C++ , and i also have studied HTML and Python in SoloLearn , althoug I am
 I would like to make software for commercial purposes ,and sometimes I make programs to help me in my day.
 Recently , since January 2021 , I started to learn Windows programming with C++ and the Win32 API , its quite complicated at
 the firts look .
-
-I add this line
